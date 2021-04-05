@@ -1,5 +1,5 @@
-# Startup automatisation
-Automatisation of my computer's startup
+# Startup automatization
+Automatization of my computer's startup
 
 ## Note
 It works **_only_** on linux !
