@@ -9,5 +9,5 @@ It works **_only_** on linux !
 - change the applications you want to open on the _launching.sh_ file
 - put the _main.py_ file on your startup applications.
 
-## Files history (see branches
+## Files history (see branches)
 - Archive1 : auto path for the _launching.py_'s launching
