@@ -1,7 +1,7 @@
-# startup_automatisation
+# Startup automatisation
 Automatisation of my startup's computer
 
-##note
+## Note
 It works **_only_** on linux !
 
 ## You need to :
