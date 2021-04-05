@@ -9,7 +9,7 @@ commande = str("cd " + path)
 
 def ouvrir_app():
     os.system(commande)
-    os.system("bash ouverture.sh")
+    os.system("bash launching.sh")
 
 fenetre = tkinter.Tk()
 label = tkinter.Label(fenetre, text = "Launch applications ?")
