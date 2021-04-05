@@ -4,8 +4,12 @@
 import os
 import tkinter
 
+path = os.path.abspath(".")
+commande = str("cd " + path)
+
 def ouvrir_app():
-    os.system("the_path_to_launching.sh_file")
+    os.system(commande)
+    os.system("bash ouverture.sh")
 
 fenetre = tkinter.Tk()
 label = tkinter.Label(fenetre, text = "Launch applications ?")
