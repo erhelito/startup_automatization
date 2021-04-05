@@ -5,10 +5,10 @@ import os
 import tkinter
 
 def ouvrir_app():
-    os.system("/home/erhelito/Documents/programmation/python/automatisation_démarrage/ouverture.sh")
+    os.system("the_path_to_the_.sh_file")
 
 fenetre = tkinter.Tk()
-label = tkinter.Label(fenetre, text = "Lancer les applications ?")
+label = tkinter.Label(fenetre, text = "Launch applications ?")
 label.pack()
 
 bouton1 = tkinter.Button(fenetre, text = "oui", command = ouvrir_app)
