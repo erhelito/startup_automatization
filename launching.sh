@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ###        info :        ###
-### here, you put all the application's path you want to launch at your computer's start-up ###
+### here, you put all the application's path you want to launch at your computer's startup ###
 
 /opt/brave.com/brave/brave &
 spotify &
