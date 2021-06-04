@@ -4,12 +4,13 @@
 import os
 import tkinter
 
-path = os.path.abspath(".")
-commande = str("cd " + path)
 
 def ouvrir_app():
-    os.system(commande)
-    os.system("bash launching.sh")
+    tkinter.Tk.destroy(self = fenetre)
+    #change your applications here
+    os.system("/opt/brave.com/brave/brave & /home/erhelito/applications/thunderbird/thunderbird & spotify")
+    
+    
 
 fenetre = tkinter.Tk()
 label = tkinter.Label(fenetre, text = "Launch applications ?")
