@@ -1,9 +1,7 @@
 #!/usr/bin/python3.8
 # -*-coding:Utf-8 -*
 
-import os
 import tkinter
-
 
 def ouvrir_app():
     tkinter.Tk.destroy(self = fenetre)
