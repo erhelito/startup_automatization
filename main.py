@@ -2,6 +2,7 @@
 # -*-coding:Utf-8 -*
 
 import tkinter
+import os
 
 def ouvrir_app():
     tkinter.Tk.destroy(self = fenetre)
